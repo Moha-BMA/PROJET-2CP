@@ -1,0 +1,2 @@
+C:/Users/t.bouteldja/Desktop/qubtan/android/app/.cxx/Debug/1w41u6w6/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/t.bouteldja/Desktop/qubtan/android/app/.cxx/Debug/1w41u6w6/armeabi-v7a/CMakeFiles/rebuild_cache.dir
