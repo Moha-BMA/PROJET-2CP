@@ -23,4 +23,5 @@ flutter:
 
   assets:
     - assets/img.png
+    - assets/img_2.png
     - assets/loading_bar (2).riv
