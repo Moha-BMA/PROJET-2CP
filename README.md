@@ -1,4 +1,4 @@
-# 🦊 Qobtan's Adventure - Exploring the Wonders of Algeria
+#  Qobtan's Adventure - Exploring the Wonders of Algeria
 
 <p align="center">
   <img src="assets/assetsMainPage/logo.png" alt="Qobtan's Adventure Logo" width="200"/>
